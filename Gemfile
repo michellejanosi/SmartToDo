@@ -45,5 +45,7 @@ group :development do
   gem 'spring'
 end
 
+# Use font awesome for icons
+gem "font-awesome-rails"
 # Use Twitter Bootstrap for styling
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
