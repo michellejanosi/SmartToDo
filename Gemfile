@@ -45,6 +45,8 @@ group :development do
   gem 'spring'
 end
 
+# Use Simple form to generate forms
+gem 'simple_form'
 # Use font awesome for icons
 gem "font-awesome-rails"
 # Use Twitter Bootstrap for styling
